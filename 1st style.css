@@ -1,9 +1,12 @@
 <style>
-  
- div {
-    background-color: red;
-	width: 200px;
-	height
+
+ body {
+    background-image: url(background/bullseye.png);
+   background-color: #d2dc9d;
+   font-family: Georgia, serif;
+   font-size: 100%;
+   line-height: 175%;
+   margin: 0 15% 0;
   }
   h1 {
      font-family: Times New Roman;
@@ -13,6 +16,6 @@
   p {
     font-family: Sans-serif;
 	color: pink;
-   }	 
-  
-</style>  
+   }
+
+</style>
